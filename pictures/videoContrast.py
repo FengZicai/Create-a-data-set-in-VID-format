@@ -9,7 +9,6 @@ colors = []
 for pixel in range(256):
     colors.append((np.random.randint(256), np.random.randint(256), np.random.randint(256)))
 
-
 if __name__ == '__main__':
     input_path = 'E:/VOT-RGBD2019/'
     output_path = 'C:/Users/Lenovo/Desktop/Videos/'

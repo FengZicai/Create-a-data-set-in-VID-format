@@ -72,4 +72,3 @@ for file in tqdm.tqdm(pathlist):
 
 # test = pd.DataFrame(index=data, data= number)
 # test.to_csv('/home/fengzicai/Documents/vot2019/number.csv')
-
